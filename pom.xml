@@ -173,13 +173,13 @@
         </dependency>
 
         <!--不知道版本行不行-->
-        <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc5 -->
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc5</artifactId>
-            <version>11.2.0.2.0</version>
-            <scope>test</scope>
-        </dependency>
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/com.oracle/ojdbc5 &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>com.oracle</groupId>-->
+<!--            <artifactId>ojdbc5</artifactId>-->
+<!--            <version>11.2.0.2.0</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
         <dependency>
